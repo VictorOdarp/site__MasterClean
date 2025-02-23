@@ -269,15 +269,15 @@ p{
 .container__texto__resultados{
     display: flex;
     flex-direction: column;
-    width: 33%;
+    width: 40%;
     gap: 10px;
 }
 
 .container__texto__resultados .titulo{
-    font-size: 3rem;
+    font-size: 3.5rem;
 }
 
-.container__texto__resultados h2{
+.container__texto__resultados h3{
     font-size: 2.3rem;
 }
 
@@ -600,6 +600,10 @@ i{
     .container__texto__resultados{
         width: 100%;
     }
+    
+    .container__texto__resultados .titulo{
+        font-size: 3.1rem;
+    }
 
     .container__imagens__resultado img{
         width: 320px;
@@ -747,12 +751,12 @@ i{
         text-align: center;
     }
 
-    .container__texto__resultados h2{
+    .container__texto__resultados h3{
         font-size: 2rem;
     }
 
     .container__texto__resultados .titulo{
-        font-size: 3rem;
+        font-size: 3.5rem;
         text-align: center;
     }
 
@@ -968,12 +972,12 @@ i{
         text-align: center;
     }
 
-    .container__texto__resultados h2{
+    .container__texto__resultados h3{
         font-size: 1.5rem;
     }
 
     .container__texto__resultados .titulo{
-        font-size: 3rem;
+        font-size: 3.5rem;
         text-align: center;
     }
 
@@ -1185,12 +1189,12 @@ i{
         text-align: center;
     }
 
-    .container__texto__resultados h2{
+    .container__texto__resultados h3{
         font-size: 2rem;
     }
 
     .container__texto__resultados .titulo{
-        font-size: 3rem;
+        font-size: 3.5rem;
         text-align: center;
     }
 
@@ -1401,7 +1405,7 @@ i{
         text-align: center;
     }
 
-    .container__texto__resultados h2{
+    .container__texto__resultados h3{
         font-size: 1.5rem;
     }
 
